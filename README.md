@@ -16,5 +16,5 @@ Tablero de gestión a partir de la información de ventas de los últimos 10 añ
 - **Enlaces:** [Repositorio ](https://github.com/jesitm/management-report)
    
 ## 🎓 Formación
-- Licenciada en informatica - Universidad Nacional de La Plata
-- Formación en Data Science y Machine Learning - Henry
+- **Licenciada en informatica** - Universidad Nacional de La Plata
+- **Formación en Data Science y Machine Learning** - Academia de Tecnología Henry 
